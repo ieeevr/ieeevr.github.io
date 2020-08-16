@@ -5,7 +5,6 @@
     background-attachment: fixed; /* Mini parallax :) */
 }
 
-
 section {
     padding: 50px 0 100px 0;
   }
@@ -98,6 +97,11 @@ section#past {
     -webkit-box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
     -moz-box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
     box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
+}
+
+.card {
+    width: 100%;
+    padding: 10px 0px;
 }
 
 #past .card-text a {
