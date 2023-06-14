@@ -1,6 +1,7 @@
 .jumbotron-header {
     height: 100vh;
-    background: url('img/vr-main-header-new.jpg') no-repeat;
+    /*background: url('img/vr-main-header-new.jpg') no-repeat;*/
+    background-color: #000;
     background-size: cover; 
     background-attachment: fixed; /* Mini parallax :) */
 }
