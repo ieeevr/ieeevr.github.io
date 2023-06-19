@@ -1,13 +1,14 @@
 .jumbotron-header {
-    height: 100vh;
-    /*background: url('img/vr-main-header-new.jpg') no-repeat;*/
+    height: 90vh;
     background-color: #000;
+    margin-bottom: 50px;
+    /*background: url('img/vr-main-header-new.jpg') no-repeat;
     background-size: cover; 
     background-attachment: fixed; /* Mini parallax :) */
 }
 
 section {
-    padding: 50px 0 100px 0;
+    padding: 0px 0 50px 0;
   }
 
 section#home {
@@ -17,10 +18,8 @@ section#home {
 }
 
 section#home .home-section {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    position: relative;
+    top: 100px;
 }
 
 .navbar.fixed-top {
@@ -82,7 +81,21 @@ section#current {
     text-align: center;
     text-decoration: underline;
     margin-bottom: 50px;
+    padding-top: 25px;
 }
+
+.contact-heading {
+    color: #d11313;
+    text-align: center;    
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    padding-top: 25px;
+}
+
+.commitee-heading {
+    margin-bottom: 50px;
+}
+
 span.title {
     font-weight: bold;
 }
@@ -109,16 +122,9 @@ section#past {
     color: #d11313;
 }
 
-.contact-heading {
-    color: #d11313;
-    text-align: center;
-    text-decoration: underline;
-    margin-bottom: 50px;
-}
-
 
 footer.footer {
-    background: #2c2c2c;
+    background: #000;
     padding: 5px;
     color: #a1a1a1;
     font-size: 14px;
@@ -132,7 +138,6 @@ footer.footer {
 .members li {
     list-style-type: none;
     margin-bottom: 20px;
-
 }
 
 .white-bg-sm {
