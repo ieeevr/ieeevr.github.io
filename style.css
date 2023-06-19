@@ -1,8 +1,7 @@
 .jumbotron-header {
-    height: 90vh;
+    height: 100vh;
+    /*background: url('img/vr-main-header-new.jpg') no-repeat;*/
     background-color: #000;
-    margin-bottom: 50px;
-    /*background: url('img/vr-main-header-new.jpg') no-repeat;
     background-size: cover; 
     background-attachment: fixed; /* Mini parallax :) */
 }
@@ -18,8 +17,10 @@ section#home {
 }
 
 section#home .home-section {
-    position: relative;
-    top: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .navbar.fixed-top {
