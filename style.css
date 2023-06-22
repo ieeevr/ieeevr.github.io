@@ -88,7 +88,7 @@ section#current {
 .contact-heading {
     color: #d11313;
     text-align: center;    
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-transform: uppercase;
     padding-top: 25px;
 }
@@ -97,7 +97,7 @@ section#current {
     margin-bottom: 50px;
 }
 
-span.title {
+.title {
     font-weight: bold;
 }
 span.authors {
