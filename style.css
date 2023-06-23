@@ -84,8 +84,8 @@ section#current {
 .past-heading {
     text-align: center;
     text-decoration: underline;
-    margin-bottom: 50px;
-    padding-top: 25px;
+    margin-bottom: 20px;
+    padding-top: 55px
 }
 
 .contact-heading {
@@ -93,7 +93,7 @@ section#current {
     text-align: center;    
     margin-bottom: 20px;
     text-transform: uppercase;
-    padding-top: 25px;
+    padding-top: 55px;
 }
 
 
