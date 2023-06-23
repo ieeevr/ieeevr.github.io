@@ -54,6 +54,9 @@ section#current {
 .about-heading {
     margin-bottom: 20px;
 }
+.padddingBottomSmall {
+    padding-bottom: 20px;
+}
 
 .current-conference {
     background: rgb(126, 14, 33);
