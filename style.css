@@ -146,3 +146,40 @@ footer.footer {
     background: #fff;
     padding: 5px;
 }
+
+
+.emailIcon{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.emailText{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.floatLeft{
+    float: left;
+}
+
+.floatRight{
+    float: right;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+section{
+    margin-bottom: 50px;
+}
+
