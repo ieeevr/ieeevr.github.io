@@ -1,5 +1,5 @@
 .jumbotron-header {
-    height: 100vh;
+    height: 75vh;
     /*background: url('img/vr-main-header-new.jpg') no-repeat;*/
     background-color: #000;
     background-size: cover; 
@@ -18,7 +18,7 @@ section#home {
 
 section#home .home-section {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
