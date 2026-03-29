@@ -41,14 +41,14 @@ section#home .home-section {
     color: rgb(126, 14, 33);
 }
 
-section#about {
-    -webkit-box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
-    -moz-box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
-    box-shadow: inset 0px -3px 7px -4px rgba(0,0,0,0.5);
-}
 
 section#current {
     padding-top: 50px;
+}
+
+section#about {
+    padding: 0;
+    margin-bottom: 0;
 }
 
 .about-heading {
